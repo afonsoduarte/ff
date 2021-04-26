@@ -1,0 +1,19 @@
+.Timeline {
+  font-family: sans-serif;
+}
+
+.header {
+  font-size: large;
+}
+
+.EventEntry {
+}
+
+.EventEntry + .EventEntry {
+  margin-top: 1.2rem;
+}
+
+.EventDescription {
+  margin: 0;
+  font-size: large;
+}
